@@ -41,4 +41,4 @@ This project analyzes how a **Servo Motor Control System** responds to **differe
 ![Updated Version Run](ServoMotor_Updated_versionRun.png)  
 
 ### 🔹 Large vs Small Disturbance Comparison  
-![Disturbance Analysis](Large_vs_Small_Disturbance_Analysis)  
+![Disturbance Analysis](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/Large_vs_Small_Disturbance_Analysis.png)
